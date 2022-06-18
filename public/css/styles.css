@@ -1,0 +1,81 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+    
+.header-style {
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(35deg, rgba(2,0,36,1) 0%, rgba(105,77,10,1) 73%, rgba(172,156,84,1) 100%);
+    background: -webkit-linear-gradient(35deg, rgba(2,0,36,1) 0%, rgba(105,77,10,1) 73%, rgba(172,156,84,1) 100%);
+    background: linear-gradient(35deg, rgba(2,0,36,1) 0%, rgba(105,77,10,1) 73%, rgba(172,156,84,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#ac9c54",GradientType=1);
+    color: rgb(206, 189, 160);
+    font-family: 'Dancing Script', cursive;
+    padding-left: 1.2em;
+}
+
+.header-title1 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+
+}
+
+.header-title2 {
+    font-size: 1.4rem;
+    padding: 0.2rem 0 0 0.2rem;
+    padding-bottom: 0.5rem;
+}
+
+.container-part {
+    height: 100vh;
+
+} 
+
+.main-flex {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer {
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(35deg, rgba(2,0,36,1) 0%, rgba(105,77,10,1) 73%, rgba(172,156,84,1) 100%);
+    background: -webkit-linear-gradient(35deg, rgba(2,0,36,1) 0%, rgba(105,77,10,1) 73%, rgba(172,156,84,1) 100%);
+    background: linear-gradient(35deg, rgba(2,0,36,1) 0%, rgba(105,77,10,1) 73%, rgba(172,156,84,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#ac9c54",GradientType=1);
+    color: rgb(206, 189, 160);
+    text-align: center;
+    padding: 0.5rem 0;
+    vertical-align: middle;
+}
+
+
+
+.nav-style {
+    background-color: #ccc;
+    height: 5vh;
+    width: 100vw;
+
+}
+.flex-actus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box {
+    width:80%;
+    margin:5% auto;
+    border:solid 5px rgb(87, 94, 12);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding:1em;
+    line-height:1.5em;
+    background:hsla(67, 95%, 95%, 1);
+}
+
+button {
+    color: rgba(172,156,84,1);
+}

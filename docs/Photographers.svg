@@ -1,0 +1,175 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="449" height="374" view_box="0 0 449 374"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Wed, 01 Jun 2022 14:07:35</desc>
+
+<rect id="frame" x="0" y="0" width="449" height="374" fill="#ffffff" stroke="none" stroke-width="0"/>
+
+<!-- Association MOVED -->
+<line x1="158" y1="187" x2="40" y2="187" stroke="#d6604d" stroke-width="2"/>
+<text x="75" y="204.0" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+<line x1="40" y1="331" x2="40" y2="187" stroke="#d6604d" stroke-width="2"/>
+<text x="45.0" y="298" fill="#4d4d4d" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-MOVED">
+	<path d="M 56 162 a 14 14 90 0 1 14 14 V 187 h -60 V 176 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 70 187.0 v 11 a 14 14 90 0 1 -14 14 H 24 a 14 14 90 0 1 -14 -14 V 187.0 H 60" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="10" y="162" width="60" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="10" y1="187" x2="70" y2="187" stroke="#d6604d" stroke-width="1"/>
+	<text x="17" y="179.7" fill="#000000" font-family="Verdana" font-size="12">MOVED</text>
+</g>
+
+<!-- Association EXERCICE -->
+<line x1="40" y1="43" x2="158" y2="43" stroke="#d6604d" stroke-width="2"/>
+<text x="76" y="60.0" fill="#4d4d4d" font-family="Verdana" font-size="12">1,N</text>
+<line x1="158" y1="187" x2="158" y2="43" stroke="#d6604d" stroke-width="2"/>
+<text x="163.0" y="94" fill="#4d4d4d" font-family="Verdana" font-size="12">0,N</text>
+<g id="association-EXERCICE">
+	<path d="M 182 18 a 14 14 90 0 1 14 14 V 43 h -76 V 32 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 196 43.0 v 11 a 14 14 90 0 1 -14 14 H 134 a 14 14 90 0 1 -14 -14 V 43.0 H 76" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="120" y="18" width="76" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="120" y1="43" x2="196" y2="43" stroke="#d6604d" stroke-width="1"/>
+	<text x="127" y="35.7" fill="#000000" font-family="Verdana" font-size="12">EXERCICE</text>
+</g>
+
+<!-- Association BORN -->
+<line x1="158" y1="187" x2="272" y2="187" stroke="#d6604d" stroke-width="2"/>
+<text x="219" y="204.0" fill="#4d4d4d" font-family="Verdana" font-size="12">0,1</text>
+<line x1="272" y1="43" x2="272" y2="187" stroke="#d6604d" stroke-width="2"/>
+<text x="277.0" y="94" fill="#4d4d4d" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-BORN">
+	<path d="M 283 162 a 14 14 90 0 1 14 14 V 187 h -50 V 176 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 297 187.0 v 11 a 14 14 90 0 1 -14 14 H 261 a 14 14 90 0 1 -14 -14 V 187.0 H 50" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="247" y="162" width="50" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="247" y1="187" x2="297" y2="187" stroke="#d6604d" stroke-width="1"/>
+	<text x="254" y="179.7" fill="#000000" font-family="Verdana" font-size="12">BORN</text>
+</g>
+
+<!-- Association BELONGS -->
+<line x1="272" y1="43" x2="395" y2="43" stroke="#d6604d" stroke-width="2"/>
+<text x="321" y="60.0" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+<line x1="395" y1="187" x2="395" y2="43" stroke="#d6604d" stroke-width="2"/>
+<text x="400.0" y="154" fill="#4d4d4d" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-BELONGS">
+	<path d="M 418 18 a 14 14 90 0 1 14 14 V 43 h -74 V 32 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 432 43.0 v 11 a 14 14 90 0 1 -14 14 H 372 a 14 14 90 0 1 -14 -14 V 43.0 H 74" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="358" y="18" width="74" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="358" y1="43" x2="432" y2="43" stroke="#d6604d" stroke-width="1"/>
+	<text x="365" y="35.7" fill="#000000" font-family="Verdana" font-size="12">BELONGS</text>
+</g>
+
+<!-- Association IS LOCATED -->
+<line x1="272" y1="331" x2="395" y2="331" stroke="#d6604d" stroke-width="2"/>
+<text x="323" y="348.0" fill="#4d4d4d" font-family="Verdana" font-size="12">1,1</text>
+<line x1="395" y1="187" x2="395" y2="331" stroke="#d6604d" stroke-width="2"/>
+<text x="400.0" y="229" fill="#4d4d4d" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-IS LOCATED">
+	<path d="M 426 306 a 14 14 90 0 1 14 14 V 331 h -90 V 320 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 440 331.0 v 11 a 14 14 90 0 1 -14 14 H 364 a 14 14 90 0 1 -14 -14 V 331.0 H 90" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="350" y="306" width="90" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="350" y1="331" x2="440" y2="331" stroke="#d6604d" stroke-width="1"/>
+	<text x="357" y="323.7" fill="#000000" font-family="Verdana" font-size="12">IS LOCATED</text>
+</g>
+
+<!-- Association DIED -->
+<line x1="158" y1="187" x2="158" y2="331" stroke="#d6604d" stroke-width="2"/>
+<text x="163.0" y="289" fill="#4d4d4d" font-family="Verdana" font-size="12">0,1</text>
+<line x1="272" y1="331" x2="158" y2="331" stroke="#d6604d" stroke-width="2"/>
+<text x="199" y="348.0" fill="#4d4d4d" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-DIED">
+	<path d="M 167 306 a 14 14 90 0 1 14 14 V 331 h -46 V 320 a 14 14 90 0 1 14 -14" fill="#f4a582" stroke="#f4a582" stroke-width="0"/>
+	<path d="M 181 331.0 v 11 a 14 14 90 0 1 -14 14 H 149 a 14 14 90 0 1 -14 -14 V 331.0 H 46" fill="#fddbc7" stroke="#fddbc7" stroke-width="0"/>
+	<rect x="135" y="306" width="46" height="50" fill="none" rx="14" stroke="#d6604d" stroke-width="2"/>
+	<line x1="135" y1="331" x2="181" y2="331" stroke="#d6604d" stroke-width="1"/>
+	<text x="142" y="323.7" fill="#000000" font-family="Verdana" font-size="12">DIED</text>
+</g>
+
+<!-- Entity CITY -->
+<g id="entity-CITY">
+	<g id="frame-CITY">
+		<rect x="20" y="306" width="40" height="25" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+		<rect x="20" y="331.0" width="40" height="25" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+		<rect x="20" y="306" width="40" height="50" fill="none" stroke="#878787" stroke-width="2"/>
+		<line x1="20" y1="331" x2="60" y2="331" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="25" y="323.7" fill="#000000" font-family="Verdana" font-size="12">CITY</text>
+	<text x="25" y="348.8" fill="#000000" font-family="Verdana" font-size="12">town</text>
+	<line x1="25" y1="351" x2="55" y2="351" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity BIRTHPLACE -->
+<g id="entity-BIRTHPLACE">
+	<g id="frame-BIRTHPLACE">
+		<rect x="228" y="9" width="88" height="25" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+		<rect x="228" y="34.0" width="88" height="43" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+		<rect x="228" y="9" width="88" height="68" fill="none" stroke="#878787" stroke-width="2"/>
+		<line x1="228" y1="34" x2="316" y2="34" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="233" y="26.7" fill="#000000" font-family="Verdana" font-size="12">BIRTHPLACE</text>
+	<text x="233" y="51.8" fill="#000000" font-family="Verdana" font-size="12">city</text>
+	<line x1="233" y1="54" x2="255" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="233" y="68.8" fill="#000000" font-family="Verdana" font-size="12">department</text>
+</g>
+
+<!-- Entity PHOTOGRAPHER -->
+<g id="entity-PHOTOGRAPHER">
+	<g id="frame-PHOTOGRAPHER">
+		<rect x="102" y="102" width="112" height="25" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+		<rect x="102" y="127.0" width="112" height="145" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+		<rect x="102" y="102" width="112" height="170" fill="none" stroke="#878787" stroke-width="2"/>
+		<line x1="102" y1="127" x2="214" y2="127" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="107" y="119.7" fill="#000000" font-family="Verdana" font-size="12">PHOTOGRAPHER</text>
+	<text x="107" y="144.7" fill="#000000" font-family="Verdana" font-size="12">firstname</text>
+	<line x1="107" y1="147" x2="165" y2="147" stroke="#000000" stroke-width="1"/>
+	<text x="107" y="161.7" fill="#000000" font-family="Verdana" font-size="12">lastname</text>
+	<text x="107" y="178.7" fill="#000000" font-family="Verdana" font-size="12">birthdate</text>
+	<text x="107" y="195.8" fill="#000000" font-family="Verdana" font-size="12">deathdate</text>
+	<text x="107" y="212.8" fill="#000000" font-family="Verdana" font-size="12">activityperiod</text>
+	<text x="107" y="229.8" fill="#000000" font-family="Verdana" font-size="12">biography</text>
+	<text x="107" y="246.8" fill="#000000" font-family="Verdana" font-size="12">portraitimg</text>
+	<text x="107" y="263.8" fill="#000000" font-family="Verdana" font-size="12">signature</text>
+</g>
+
+<!-- Entity DEATHPLACE -->
+<g id="entity-DEATHPLACE">
+	<g id="frame-DEATHPLACE">
+		<rect x="226" y="297" width="92" height="25" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+		<rect x="226" y="322.0" width="92" height="43" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+		<rect x="226" y="297" width="92" height="68" fill="none" stroke="#878787" stroke-width="2"/>
+		<line x1="226" y1="322" x2="318" y2="322" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="231" y="314.7" fill="#000000" font-family="Verdana" font-size="12">DEATHPLACE</text>
+	<text x="231" y="339.8" fill="#000000" font-family="Verdana" font-size="12">city</text>
+	<line x1="231" y1="342" x2="253" y2="342" stroke="#000000" stroke-width="1"/>
+	<text x="231" y="356.8" fill="#000000" font-family="Verdana" font-size="12">department</text>
+</g>
+
+<!-- Entity COUNTRY -->
+<g id="entity-COUNTRY">
+	<g id="frame-COUNTRY">
+		<rect x="360" y="162" width="70" height="25" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+		<rect x="360" y="187.0" width="70" height="25" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+		<rect x="360" y="162" width="70" height="50" fill="none" stroke="#878787" stroke-width="2"/>
+		<line x1="360" y1="187" x2="430" y2="187" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="365" y="179.7" fill="#000000" font-family="Verdana" font-size="12">COUNTRY</text>
+	<text x="365" y="204.8" fill="#000000" font-family="Verdana" font-size="12">state</text>
+	<line x1="365" y1="207" x2="396" y2="207" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity ADRESS -->
+<g id="entity-ADRESS">
+	<g id="frame-ADRESS">
+		<rect x="9" y="18" width="62" height="25" fill="#bababa" stroke="#bababa" stroke-width="0"/>
+		<rect x="9" y="43.0" width="62" height="25" fill="#e0e0e0" stroke="#e0e0e0" stroke-width="0"/>
+		<rect x="9" y="18" width="62" height="50" fill="none" stroke="#878787" stroke-width="2"/>
+		<line x1="9" y1="43" x2="71" y2="43" stroke="#878787" stroke-width="1"/>
+	</g>
+	<text x="14" y="35.7" fill="#000000" font-family="Verdana" font-size="12">ADRESS</text>
+	<text x="14" y="60.8" fill="#000000" font-family="Verdana" font-size="12">way</text>
+	<line x1="14" y1="63" x2="39" y2="63" stroke="#000000" stroke-width="1"/>
+</g>
+</svg>
